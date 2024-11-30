@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "EmployeeAdminProtal.Controllers.EmployeeController",
+    "Method": "GetAllEmployess",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EmployeeAdminProtal.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
