@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|solutionrelative:employeeadminprotal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|f:\\dotnet\\employeeadminprotal\\employeeadminprotal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|solutionrelative:employeeadminprotal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|f:\\dotnet\\employeeadminprotal\\employeeadminprotal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|solutionrelative:employeeadminprotal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminProtal\\Models\\AddEmployeeDto.cs",
+              "ToolTip": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminProtal\\Models\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:32:38.087Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "EmployeeAdminProtal\\Controllers\\EmployeeController.cs",
               "ToolTip": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EmployeeAdminProtal\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T23:12:25.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\appsettings.json",
               "RelativeDocumentMoniker": "EmployeeAdminProtal\\appsettings.json",
@@ -43,7 +60,8 @@
               "RelativeToolTip": "EmployeeAdminProtal\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T18:10:02.232Z"
+              "WhenOpened": "2024-11-30T18:10:02.232Z",
+              "EditorCaption": ""
             }
           ]
         }
