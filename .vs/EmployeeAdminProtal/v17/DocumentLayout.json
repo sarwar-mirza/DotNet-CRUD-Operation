@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "F:\\DotNet\\EmployeeAdminProtal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|f:\\dotnet\\employeeadminprotal\\employeeadminprotal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|solutionrelative:employeeadminprotal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|f:\\dotnet\\employeeadminprotal\\employeeadminprotal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|solutionrelative:employeeadminprotal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|f:\\dotnet\\employeeadminprotal\\employeeadminprotal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC61DA34-4B8D-4C82-8341-08761D15EB7E}|EmployeeAdminProtal\\EmployeeAdminProtal.csproj|solutionrelative:employeeadminprotal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminProtal\\appsettings.json",
+              "ToolTip": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\appsettings.json",
+              "RelativeToolTip": "EmployeeAdminProtal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T18:10:02.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "EmployeeAdminProtal\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "EmployeeAdminProtal\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminProtal\\Program.cs",
+              "ToolTip": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminProtal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:56:20.867Z",
+              "WhenOpened": "2024-11-30T17:54:37.545Z",
               "EditorCaption": ""
             }
           ]
