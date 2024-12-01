@@ -24,6 +24,21 @@ namespace EmployeeAdminProtal.Controllers
             return Ok(allEmployess);
         }
 
+
+        //Select specific id using Get
+        [HttpGet]
+        [Route("{id:guid}")]
+        public IActionResult GetEmployessById(Guid id)
+        {
+            var employee = dbContext.Employees.Find(id);
+
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            return Ok(employee);
+        }
+
         //Add Employee
         [HttpPost]
         public IActionResult AddEmployee(AddEmployeeDto addEmployeeDto)

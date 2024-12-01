@@ -34,8 +34,7 @@
               "RelativeToolTip": "EmployeeAdminProtal\\Models\\AddEmployeeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:32:38.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T23:32:38.087Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "EmployeeAdminProtal\\Controllers\\EmployeeController.cs",
               "ToolTip": "F:\\DotNet\\EmployeeAdminProtal\\EmployeeAdminProtal\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EmployeeAdminProtal\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T23:12:25.642Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "EmployeeAdminProtal\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T18:10:02.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:10:02.232Z"
             }
           ]
         }
